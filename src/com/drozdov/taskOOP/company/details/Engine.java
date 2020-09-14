@@ -1,4 +1,4 @@
-package com.company.details;
+package com.drozdov.taskOOP.company.details;
 
 public class Engine {
    public double pow;

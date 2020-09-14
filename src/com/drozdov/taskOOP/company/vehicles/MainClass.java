@@ -1,7 +1,7 @@
-package com.company.vehicles;
+package com.drozdov.taskOOP.company.vehicles;
 
-import com.company.details.Engine;
-import com.company.professions.Driver;
+import com.drozdov.taskOOP.company.details.Engine;
+import com.drozdov.taskOOP.company.professions.Driver;
 
 public class MainClass extends Car {
 

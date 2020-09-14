@@ -1,4 +1,4 @@
-package com.company.professions;
+package com.drozdov.taskOOP.company.professions;
 
 public class Driver {
     public String fullName;
